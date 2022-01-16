@@ -2,4 +2,19 @@
  <root>
   <id>1</id>
   <title>Chat - User cannot rename group conversation</title>
+  <Type>Bug</Type>
+  <Priority>Medium</Priority>
+  <Affects_Version>None</Affects_Version>
+  <Component>None</Component>
+  <Labels>None</Labels>
+  <Sprint>S22</Sprint>
+  <Description>Steps_to_reproduce</Description>
+  <1>Log in</1>
+  <2>Open chat dialog</2>
+  <3>Click on the Setting button</3>
+  <4>Add user</4>
+  <5>Add user to a group conversation</5>
+  <6>Try to rename this group conversation</6>
+  <Expected_result>User can rename group conversation</Expected_result>
+  <Actual_result>Rename conversation button is disabled</Actual_result>
  </root>
