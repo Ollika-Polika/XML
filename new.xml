@@ -1,3 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<root>{&quot;name&quot;:&quot;Bill&quot;, &quot;salary&quot;:56000,&quot;married&quot;:true}</root>
+ <root>
+  <employeeID>1</employeeID>
+  <name>Bill</name>
+  <salary>56000</salary>
+  <married>true</married>
+  <employeeID>2</employeeID>
+  <name>Olli</name>
+  <salary>1000000</salary>
+  <married>true</married>
+  <age>27</age>
+  <animals>1</animals>
+ </root>
+
 
